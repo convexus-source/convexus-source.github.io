@@ -6,4 +6,4 @@
 
 ### Configurar Impressora
 - Criar a pasta PrintOrtolook no seguinte caminho ```C:/PrintOrtolook```
-- Criar arquivo ```impressora.convexus```
+- Criar arquivo ```impressora.convexus``` com o nome da impressora no seguinte formato ```name.print.ortolook=NOME_DA_IMPRESSORA```
