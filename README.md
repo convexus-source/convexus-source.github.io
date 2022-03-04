@@ -2,7 +2,9 @@
 
 ### Instalar SetupLocal
 - Instalar JDK 8
-- Baixar SetupLocalUpdate e colar na pasta Inicializar do Windows
+- Baixar [SetupLocalUpdate](https://github.com/convexus-source/convexus-source.github.io/raw/master/SetupLocalUpdate.jar) e colar na pasta Inicializar do Windows
+- Reiniciar o computador
+- Verificar se o download será iniciado após o computador reiniciar.
 
 ### Configurar Impressora
 - Criar a pasta PrintOrtolook no seguinte caminho ```C:/PrintOrtolook```
@@ -11,4 +13,5 @@
 ### Configurar Navegador (Chrome)
 - Copie o link a seguir ```chrome://flags/#block-insecure-private-network-requests``` cole na barra de pesquisa do navegador.
 - Altere a flag “Block insecure private network requests.” de “default” para “Disabled”.
+- Reinicie o navegador.
 ![image](https://user-images.githubusercontent.com/24610869/150806805-aad13afb-10ba-404d-964e-b5ade09dcd35.png)
