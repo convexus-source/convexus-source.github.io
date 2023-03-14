@@ -8,7 +8,8 @@
 
 ### Configurar Impressora
 - Criar a pasta PrintOrtolook no seguinte caminho ```C:/PrintOrtolook```
-- Criar arquivo ```impressora.convexus``` com o nome da impressora no seguinte formato ```name.print.ortolook=NOME_DA_IMPRESSORA```
+- Criar arquivo ```impressora.convexus``` com o nome da impressora no seguinte formato ```name.print.ortolook=NOME_DA_IMPRESSORA``` (Respeitando letras maiúsculas e minúsculas)
+> O nome do arquivo é composto de ```impressora``` (nome do arquivo) + ```.convexus``` (extensão)
 
 ### Configurar Navegador (Chrome)
 - Copie o link a seguir ```chrome://flags/#block-insecure-private-network-requests``` cole na barra de pesquisa do navegador.
