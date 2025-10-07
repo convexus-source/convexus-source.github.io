@@ -3,6 +3,7 @@
 ### Instalar SetupLocal
 - Instalar JDK 8
 - Baixar [SetupLocalUpdate](https://github.com/convexus-source/convexus-source.github.io/raw/master/SetupLocalUpdate.jar) e colar na pasta Inicializar do Windows
+- Criar a pasta PrintOrtolook no seguinte caminho ```C:/PrintOrtolook```
 - Reiniciar o computador
 - Verificar se o download será iniciado após o computador reiniciar.
 
