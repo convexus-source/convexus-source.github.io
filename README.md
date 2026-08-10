@@ -5,7 +5,7 @@
 - Criar a pasta PrintOrtolook no seguinte caminho ```C:/PrintOrtolook```
 - Baixar [SetupLocalUpdate](https://github.com/convexus-source/convexus-source.github.io/raw/master/SetupLocalUpdate.jar) e colar na pasta Inicializar do Windows (`%APPDATA%/Microsoft/Windows/Start Menu/Programs/Startup`)
 
-- Reiniciar o computador
+- Reiniciar o computador OU Iniciar o SetupLocalUpdate.jar com dois click
 - Verificar se o download será iniciado após o computador reiniciar.
 
 ### Configurar Impressora
