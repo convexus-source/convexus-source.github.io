@@ -17,7 +17,13 @@
   > O nome da impressora pode ser obtido na Propriedade da impressora.
   ![image](https://user-images.githubusercontent.com/24610869/225085313-fbd23408-ce67-4658-bc28-a582de909d93.png)
 
-### Configurar Navegador (Chrome)
+### Configurar Navegador (Chrome) 
+Ao acessar dttsistemas.com.br deve habilitar `Apps no dispositivo`
+<img width="446" height="432" alt="image" src="https://github.com/user-attachments/assets/1e30be23-6239-4b38-939f-d33cebe698e5" />
+
+
+
+### Configurar Navegador (Chrome DEPRECIADO) 
 - Copie o link a seguir ```chrome://flags/#block-insecure-private-network-requests``` cole na barra de pesquisa do navegador.
 - Altere a flag “Block insecure private network requests.” de “default” para “Disabled”.
 - Reinicie o navegador.
