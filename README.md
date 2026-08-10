@@ -18,7 +18,7 @@
   ![image](https://user-images.githubusercontent.com/24610869/225085313-fbd23408-ce67-4658-bc28-a582de909d93.png)
 
 ### Configurar Navegador (Chrome) 
-Ao acessar dttsistemas.com.br deve habilitar `Apps no dispositivo`  
+- Ao acessar dttsistemas.com.br deve habilitar `Apps no dispositivo`  
 ![image](https://github.com/user-attachments/assets/1e30be23-6239-4b38-939f-d33cebe698e5)
 
 
