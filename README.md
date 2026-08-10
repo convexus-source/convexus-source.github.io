@@ -3,9 +3,9 @@
 ### Instalar SetupLocal
 - Instalar [JDK 8](https://drive.google.com/file/d/1_0uoGegV5532hgNLyfIpiV5SIXUU4wJn/view?usp=drive_link)
 - Criar a pasta PrintOrtolook no seguinte caminho ```C:/PrintOrtolook```
-- Baixar [SetupLocalUpdate](https://github.com/convexus-source/convexus-source.github.io/raw/master/SetupLocalUpdate.jar) e colar na pasta Inicializar do Windows (`%APPDATA%/Microsoft/Windows/Start Menu/Programs/Startup`)
+- Baixar [SetupLocalUpdate](https://github.com/convexus-source/convexus-source.github.io/raw/master/SetupLocalUpdate.jar) e colar na pasta Inicializar do Windows (```%APPDATA%/Microsoft/Windows/Start Menu/Programs/Startup```)
 
-- Reiniciar o computador OU Iniciar o `SetupLocalUpdate.jar` com dois click
+- Reiniciar o computador OU Iniciar o ```SetupLocalUpdate.jar``` com dois click
 - Verificar se o download será iniciado após o computador reiniciar.
 
 ### Configurar Impressora
