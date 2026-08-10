@@ -7,6 +7,7 @@
 
 - Reiniciar o computador OU Iniciar o ```SetupLocalUpdate.jar``` com dois click
 - Verificar se o download será iniciado após o computador reiniciar.
+- Acesse [http://localhost:8080/properties/all](http://localhost:8080/properties/all)
 
 ### Configurar Impressora
 - Criar a pasta PrintOrtolook no seguinte caminho ```C:/PrintOrtolook```
