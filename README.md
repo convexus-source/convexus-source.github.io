@@ -7,7 +7,7 @@
 
 - Reiniciar o computador OU Iniciar o ```SetupLocalUpdate.jar``` com dois click
 - Verificar se o download será iniciado após o computador reiniciar.
-- Acesse [localhost:8080/properties/all](http://localhost:8080/properties/all) para acessar o mac. 
+- Acesse [localhost:8080/properties/all](http://localhost:8080/properties/all) para adquirir o endereço mac e registrar no `adm.dttsistemas.com.br`. 
 
 ### Configurar Impressora
 - Criar a pasta PrintOrtolook no seguinte caminho ```C:/PrintOrtolook```
